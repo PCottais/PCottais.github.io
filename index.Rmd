@@ -1,0 +1,45 @@
+---
+title: "Pierre Cottais"
+output: 
+  html_document:
+   logo: img/ifremer
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     after_body: extLogo.html
+---
+
+
+
+```{r setup_teaching, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+
+<img src="img/pp.jpg" alt="pp" width = "280px" align="right"> </img>
+  
+  
+
+  
+
+   
+Data scientist with a master's degree in Applied mathematics, Statistics, specialised in biology and environmental data.
+
+I am currently working as a Citizen-science data analyst at the Deep Sea Lab in the mixed research unit BEEP ([Biology and Ecology of Deep Sea Ecosystems](https://www.umr-beep.fr/en/)).
+
+ 
+  
+  
+## Contact information
+- <i class="fas fa-map-marker"></i> Deep Sea Lab - UMR BEEP </br>
+  IFREMER</br>
+  Route de Sainte-Anne, CS 84215</br>
+  29... Brest Cedex, France</br>
+  
+- <i class="fa fa-phone"></i> +33 (0)6 44 13 08 68 
+
+- <i class="fa fa-at"></i> <a href="mailto:pierre.cottais@ifremer.fr">pierre [dot] cottais [at] ifremer [dot] fr</a>
+
+
+ 

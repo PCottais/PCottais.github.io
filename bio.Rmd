@@ -1,0 +1,33 @@
+---
+title: "Biography"
+output: 
+  html_document:
+   toc: false
+   logo: img/ifremer
+   number_sections: false
+   highlight: tango
+   css: style.css
+---
+
+
+
+Since November 2023 :  French data engineer in Citizen-science analysis at [Ifremer](https://ifremer.fr)
+
+## Previous Positions
+
+- 2022: Research assistant in Data science for bird biodiversity at [INRAE](https://inrae.fr)
+
+- 2021: Research assistant (internship) in Data science for forest conservation at [INRAE](https://inrae.fr)
+
+- 2020: ...
+
+
+## Education
+
+- 2022: Master's degree in **Applied Mathematics, Statistics (Data Science for Biology)** at [l'Institut Agro Rennes-Angers](https://www.institut-agro-rennes-angers.fr/formation/masters/parcours-data-science-pour-la-biologie) (M2; MAS) and [Université Rennes 2](https://formations.univ-rennes2.fr/fr/formations/master-37/master-mention-mathematiques-appliquees-statistique-parcours-sciences-des-donnees-intelligence-artificielle-JFTJBMKM.html) (M1; MAS)
+
+- 2020: Licence's degree in **Mathematics and Computer Science applied to Social Science** at [Université Rennes 2](https://www.univ-rennes2.fr/structure/departement-miashs) (L3; MIASHS)
+
+- 2019: 2-years university diploma of technology in **Data Science** at [IUT de Vannes](https://www.iutvannes.fr/b-u-t-science-des-donnees/) (DUT; STID)
+
+

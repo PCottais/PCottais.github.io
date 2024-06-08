@@ -1,0 +1,27 @@
+name: "Pierre Cottais"
+output_dir: "."
+navbar:
+  logo: img/pp
+  title: 'Pierre Cottais'
+  left:
+  - text: "Bio "
+    icon: fa-child
+    href: bio.html
+
+  right:
+  - text: "Github"
+    icon: fab fa-github
+    href: https://github.com/PCottais
+  - text: "ORCID"
+    # href: news.html
+    # icon: fa-commenting  
+ 
+
+     
+      
+output:
+  html_document:
+    theme: lumen
+    highlight: haddock
+
+    
