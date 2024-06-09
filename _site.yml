@@ -1,7 +1,7 @@
 name: "Pierre Cottais"
 output_dir: "."
 navbar:
-  logo: img/pp
+  logo: img/pont-neuf
   title: 'Pierre Cottais'
   left:
   - text: "Bio "
@@ -12,12 +12,11 @@ navbar:
   - text: "Github"
     icon: fab fa-github
     href: https://github.com/PCottais
+    target: _blank
   - text: "ORCID"
-    # href: news.html
-    # icon: fa-commenting  
- 
-
-     
+    icon: fab fa-orcid
+    href: https://orcid.org/0000-0003-0683-9926
+    
       
 output:
   html_document:

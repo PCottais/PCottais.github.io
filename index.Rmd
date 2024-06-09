@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 ```
 
 
-<img src="img/pp.jpg" alt="pp" width = "280px" align="right"> </img>
+<img src="img/pont-neuf.jpg" alt="pp" width = "280px" align="right"> </img>
   
   
 
