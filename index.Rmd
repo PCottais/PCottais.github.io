@@ -2,12 +2,12 @@
 title: "Pierre Cottais"
 output: 
   html_document:
-   logo: img/ifremer
+   logo: img/logo_dss_ifremer
    number_sections: false
    highlight: tango
    css: style.css
-   includes:
-     after_body: extLogo.html
+   # includes:
+   #   after_body: extLogo.html
 ---
 
 
