@@ -3,7 +3,6 @@ title: "Biography"
 output: 
   html_document:
    toc: false
-   logo: img/ifremer
    number_sections: false
    highlight: tango
    css: style.css
@@ -21,7 +20,7 @@ Since November 2023 (for 9 months):  Research assistant (engineer) in Citizen-sc
 
 - 2021: Research manager assistant (internship) in Data analysis on collective ownership at [ADIL 31](https://www.adil31.org) (3 months)
 
-- 2019: Online marketing study assistant in Web development and data visualisation (https://shiny.posit.co)) at [Kantar](https://kantar.com) (2+1 months)
+- 2019: Online marketing study assistant in Web development and data visualisation at [Kantar](https://kantar.com) (2+1 months)
 
 - 2019: Data manager assistant (internship) in Statistics for European demographics at [Kantar](https://kantar.com) (3 months)
 

@@ -9,7 +9,7 @@ navbar:
     href: bio.html
 
   right:
-  - text: "Github"
+  - text: "GitHub"
     icon: fab fa-github
     href: https://github.com/PCottais
     target: _blank

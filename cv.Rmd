@@ -1,0 +1,13 @@
+---
+title: "Curiculum Vitae"
+output: 
+  html_document:
+   toc: false
+   number_sections: false
+   highlight: tango
+   css: style.css
+---
+
+[French version](PDF/CV_PierreCottais.pdf)
+
+English version to be released...
