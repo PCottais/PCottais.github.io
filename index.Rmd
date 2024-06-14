@@ -21,9 +21,9 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
   
   
 
-Data scientist with a master's degree in Applied mathematics, Statistics, specialised in biology and environmental data.
+Data Scientist with a master's degree in Applied Mathematics, Statistics, specialised in Biology and Ecology.
 
-I am currently working as a Citizen-science data analyst at the Deep Sea Lab in the mixed research unit BEEP ([Biology and Ecology of Deep Sea Ecosystems](https://www.umr-beep.fr/en/)).
+I am currently working as a Citizen-science Data Analyst at the Deep Sea Lab in the mixed research unit BEEP ([Biology and Ecology of Deep Sea Ecosystems](https://www.umr-beep.fr/en/)).
  
  
  </br>
@@ -36,7 +36,7 @@ Deep Sea Lab, UMR BEEP</br>
 &nbsp;&nbsp;&nbsp;&nbsp; 29280 Plouzané, France</br>
   
 <i class="fa fa-phone"></i>
-+33 (0)6 44 13 08 68
+See CV
 
 <i class="fa fa-at"></i>
 <a href="mailto:pierre.cottais@ifremer.fr">pierre [dot] cottais [at] ifremer [dot] fr</a>
