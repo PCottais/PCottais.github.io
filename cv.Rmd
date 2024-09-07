@@ -8,6 +8,6 @@ output:
    css: style.css
 ---
 
-[French version](PDF/CV_PierreCottais.pdf)
+[French version](PDF/CV_PierreCottais_FR.pdf)
 
-English version to be released...
+[English version](PDF/CV_PierreCottais_EN.pdf)

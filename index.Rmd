@@ -20,10 +20,11 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 <img src="img/pont-neuf.jpg" alt="pp" width = "280px" align="right"> </img>
   
   
-
 Data Scientist with a master's degree in Applied Mathematics, Statistics, specialised in Biology and Ecology.
 
-I am currently working as a Citizen-science Data Analyst at the Deep Sea Lab in the mixed research unit BEEP ([Biology and Ecology of Deep Sea Ecosystems](https://www.umr-beep.fr/en/)).
+Junior Data Scientist in Ecology and Biology with strong skills in data processing and analysis, passionate about developing web applications and guides to share knowledge and communicate information. Experienced in GIS processing, R programming, and Git version control.
+
+I am currently currently looking for a job in statistics and data engineering.
  
  
  </br>
@@ -31,15 +32,15 @@ I am currently working as a Citizen-science Data Analyst at the Deep Sea Lab in 
   
 ## Contact information
 <i class="fas fa-map-marker"></i>
-Deep Sea Lab, UMR BEEP</br>
-&nbsp;&nbsp;&nbsp;&nbsp; Ifremer Centre Bretagne, CS 10070</br>
-&nbsp;&nbsp;&nbsp;&nbsp; 29280 Plouzané, France</br>
+<!-- Deep Sea Lab, UMR BEEP</br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; Ifremer Centre Bretagne, CS 10070</br> -->
+&nbsp; 35000 Rennes, France</br>
   
-<i class="fa fa-phone"></i>
-See CV
+<!-- <i class="fa fa-phone"></i> -->
+<!-- See CV -->
 
 <i class="fa fa-at"></i>
-<a href="mailto:pierre.cottais@ifremer.fr">pierre [dot] cottais [at] ifremer [dot] fr</a>
+&nbsp; <a href="mailto:pierre.cottais@ifremer.fr">pierre [dot] cottais [at] ifremer [dot] fr</a>
 
 
  
