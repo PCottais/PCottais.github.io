@@ -9,10 +9,9 @@ output:
 ---
 
 
-
-Since November 2023 (for 9 months):  Research assistant (engineer) in Citizen-science analysis at [Ifremer](https://ifremer.fr)
-
 ## Previous Positions
+
+- 2024: Research assistant (engineer) in Citizen-science analysis at [Ifremer](https://ifremer.fr) (9 months)
 
 - 2023: Research assistant (engineer) in Data science for bird biodiversity at [INRAE](https://inrae.fr) (9 months)
 
